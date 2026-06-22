@@ -17,6 +17,11 @@ ollama serve
 ```
 ollama pull gemma4:e2b
 ```
+- IP確認
+```
+WINDOWS_IP=$(ip route show | grep -i default | awk '{ print $3}')
+echo "Windows IP: ${WINDOWS_IP}"
+```
 
 ### opencode.json作成
 ```
