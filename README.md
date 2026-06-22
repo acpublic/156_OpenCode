@@ -57,4 +57,8 @@ echo "Windows IP: ${WINDOWS_IP}"
 ```
 curl http://${WINDOWS_IP}:11434/v1/models
 ```
-
+### OpenCode起動
+```
+opencode
+```
+- 起動後に"/models"コマンドでモデル選択
