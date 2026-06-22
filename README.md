@@ -3,6 +3,9 @@
 - https://note.com/safe_shark6918/n/n6545700ac685
 - https://zenn.dev/yanasan/articles/9e3c5473206a27
 ## インストール
+- WSL
+- Ollama
+- OpenCode
 ### OpenCode起動
 - OpenCodeインストール
 ```
